@@ -90,7 +90,7 @@
             </div>
             <div class="links">
                 <a target="_blank" rel="noreferrer noopener" href="https://laravist.com/blog">Blog</a>
-                <a target="_blank" rel="noreferrer noopener" href="https://laravist.com">Laravel 视频</a>
+                <a target="_blank" rel="noreferrer noopener" href="https://laravist.com">Laravel</a>
                 <a target="_blank" rel="noreferrer noopener" href="http://weibo.com/laravist">Weibo</a>
                 <a target="_blank" rel="noreferrer noopener" href="https://github.com/JellyBool">GitHub</a>
             </div>
