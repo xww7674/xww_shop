@@ -9,8 +9,6 @@
         <title>Server Handbook | A Book For Server Beginner</title>
 
         <link rel="shortcut icon" href="https://laravist.com/images/favicon.ico">
-
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
         <style>
             html, body {
                 background-color: #fff;
