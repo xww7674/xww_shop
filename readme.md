@@ -6,4 +6,4 @@ https://laravist.com/series/deploy-laravel-app-on-vps
 
 ### Github Webhook
 
-关于 Github Webhook 的部署代码,在 `app/Http/Controllers/DeploymentController.php` 中
+关于 Github Webhook 的部署代码,在 `app/Http/Controllers/DeploymentController.php` 中,[查看代码](https://github.com/JellyBool/laravel-ubuntu/blob/master/app/Http/Controllers/DeploymentController.php)
